@@ -23,7 +23,7 @@
   <img align="center" alt="Luc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luc-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="Luc-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
-   <img align="right" alt="Luc-Gifhy" height="200" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhncThhajNicmt3OXAwaHc3aDlkOWpibmkxaGtwOGR0ZXZrNnoweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cabp4yHOspBhjSYQ3J/giphy.gif">
+   <img align="right" alt="Luc-Gifhy" height="150" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhncThhajNicmt3OXAwaHc3aDlkOWpibmkxaGtwOGR0ZXZrNnoweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cabp4yHOspBhjSYQ3J/giphy.gif">
 </div>
 
 ##
