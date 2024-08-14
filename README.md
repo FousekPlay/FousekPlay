@@ -2,7 +2,8 @@
 
 
 - 🌱Studying Javascript
-
+- 🖥️ HTML
+- 🎨 CSS
 
 <div>
   <source
