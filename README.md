@@ -1,8 +1,8 @@
 ## Hi, I am Lucas Fousek, programming student 👋👋 !!
 
-- 🤓Today Front-end student
+
 - 🌱Studying Javascript
-- 🙆‍♂️Pronouns: he/him
+
 
 <div>
   <source
